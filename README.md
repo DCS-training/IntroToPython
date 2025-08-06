@@ -48,3 +48,8 @@ There are different ways of installing and running Python locally on your person
   - [Matplotlib](https://matplotlib.org/) is probably the most comprehensive and customizable library. This is a good starting point for general purpose visualizations in Python. Matplotlib provides a [_Getting Started_ guide](https://matplotlib.org/stable/users/getting_started/).
   - [Seaborn](https://seaborn.pydata.org/) is a higher-level library that uses Matplotlib internally. Seaborn is useful for easily creating standard statistical charts such as box plots, charts with regression lines, etc. Check out the [example gallery](https://seaborn.pydata.org/examples/index.html) and [Tutorial](https://seaborn.pydata.org/tutorial.html.)
   - For interactive visualizations, take a look at [Vega-Altair](https://altair-viz.github.io/), [Bokeh](https://bokeh.org/), and [Plotly](https://plotly.com/python/).
+
+
+## License
+
+All material collected here is free to use but is covered by a License: [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
